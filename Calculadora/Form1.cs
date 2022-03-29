@@ -124,7 +124,7 @@ namespace Calculadora
             }
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnPonto_Click(object sender, EventArgs e)
         {
             if (txtResultado.Text == "")
             {
@@ -201,7 +201,7 @@ namespace Calculadora
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void btn0_Click(object sender, EventArgs e)
         {
             if (txtResultado.Equals(""))
             {
