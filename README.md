@@ -1,10 +1,7 @@
 # Calculadora-Csharp
 
-se quiser usar é so baixar o arquivo
-
-if wanted use that, just follow this way.
-
-
+Para usar , baixe todos arquivos desta pasta
+https://github.com/mig1998/Calculadora-Csharp/tree/master/Calculadora/setup/exec/net6.0-windows
 
 
 ![foto](https://github.com/mig1998/Calculadora-Csharp/blob/master/Calculadora/calculadora/aplicativoImagem.png?raw=true "Optional Title")
